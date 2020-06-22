@@ -12,3 +12,11 @@
 .boxcontact{
 	margin: 5px 10px;
 }
+img{
+	background-color: linear-gradient(
+		rgba(0, 0, 0, 0.5) 0,
+		rgba(0, 0, 0, 0.3) 50%,
+		rgba(0, 0, 0, 0.1) 100%
+		);
+	z-index: 99;
+}
